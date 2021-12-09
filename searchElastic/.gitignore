@@ -1,0 +1,5 @@
+db.sqlite3
+searchElastic/settings.py
+searchElastic/__pycache__
+elasticsearchapp/__pycache__
+elasticsearchapp/migrations
